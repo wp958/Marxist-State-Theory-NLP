@@ -22,14 +22,13 @@
 ### 1. 概念网络演进：从“哲学批判”到“实体解剖”
 > 早期批判阶段（市民社会/异化） ➡️ 成熟阶段（资产阶级/国家机器） ➡️ 实践阶段（公社/打碎） ➡️ 继承阶段（苏维埃/专政）
 
-<p align="center">
-  <img src="images/network_stage1.png" width="45%" alt="早期批判阶段">
-  <img src="images/network_stage2.png" width="45%" alt="成熟阶段">
-</p>
-<p align="center">
-  <img src="images/network_stage3.png" width="45%" alt="实践阶段">
-  <img src="images/network_stage4.png" width="45%" alt="继承阶段">
-</p>
+<img width="1400" height="1200" alt="早期批判阶段_network_window15" src="https://github.com/user-attachments/assets/79807a91-c5b9-4972-97ce-72a05488fb2d" />
+
+<img width="1400" height="1200" alt="成熟阶段_network_window15" src="https://github.com/user-attachments/assets/e8f54800-7fad-4905-a075-8f6ee8565a18" />
+
+<img width="1400" height="1200" alt="实践应用阶段_network_window15" src="https://github.com/user-attachments/assets/9f189483-acff-46cc-8015-bb41f8d1b798" />
+
+<img width="1400" height="1200" alt="继承和发展阶段_network_window15" src="https://github.com/user-attachments/assets/5de9051b-89fc-42ad-8298-977fdc782592" />
 
 ### 2. 宏观趋势：“阶级性”与“革命性”的恒定锚点
 > 数据证实：“阶级”与“革命”在四个阶段始终保持最高频次；而“民主”一词在后期急剧攀升，展现了无产阶级对新型政体（苏维埃）的积极建构。
