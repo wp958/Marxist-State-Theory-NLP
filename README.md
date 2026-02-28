@@ -41,10 +41,5 @@
 
 ---
 
-## 🚀 快速运行
-```bash
-# 1. 克隆仓库
-git clone https://github.com/yourusername/Marxist-State-Theory-NLP.git
-
-# 2. 运行主程序 (生成共现矩阵与网络图)
-python src/main.py
+## 💡 总结
+本项目通过可验证的 Python 代码，从底层词汇结构为宏观思想史演进提供了实证依据。完整的分析代码与原始论文已上传至本仓库。
