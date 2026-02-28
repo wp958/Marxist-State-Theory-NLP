@@ -32,15 +32,12 @@
 
 ### 2. 宏观趋势：“阶级性”与“革命性”的恒定锚点
 > 数据证实：“阶级”与“革命”在四个阶段始终保持最高频次；而“民主”一词在后期急剧攀升，展现了无产阶级对新型政体（苏维埃）的积极建构。
-<p align="center">
-  <img src="images/trend_top8.png" width="80%" alt="Top8核心词趋势图">
-</p>
+<img width="1300" height="800" alt="overall_lines_top8_window15" src="https://github.com/user-attachments/assets/c9b3717d-ef4b-4c2a-b83b-5c9ce2cfe419" />
+
 
 ### 3. 六大理论维度的范式转移
 > “异化”维度在第一阶段后迅速衰减，而“暴力性”与“民主性”在最终阶段显著增强。
-<p align="center">
-  <img src="images/trend_dimension.png" width="80%" alt="理论维度演变图">
-</p>
+<img width="3600" height="2100" alt="theory_dimension_evolution_window15" src="https://github.com/user-attachments/assets/382dc44e-867f-42ac-84f0-107de6e40ec2" />
 
 ---
 
